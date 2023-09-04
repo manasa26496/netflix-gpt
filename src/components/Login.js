@@ -39,6 +39,7 @@ const Login = () => {
         {isSignInForm? "New to Netflix? Sign Up Now":"Already registered? Sign In Now."}</p>
     </form>
     </div>
+    
   );
 };
 
