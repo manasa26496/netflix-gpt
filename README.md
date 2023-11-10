@@ -58,3 +58,11 @@ Planning for MainContainer & secondary container
 35. GPT Search Page
 36. GPT Search Bar
 37. (BONUS) Multi-language Feature in our App
+38. Get Open API Key
+39. Gpt Search API Call
+40. Fetch gptmoviesuggestions from TMDB
+41. created gpt SLice added data
+42. Resused movie list comp to make movie suggestion
+43. Memoization
+44. added .env file and adding to gitignore
+45. Made the site responsive to mobile
